@@ -272,7 +272,6 @@ p {
 #futao {
     padding: 10px;
     color: white;
-    font-family: 'Poppins', 'Times New Roman', Times, serif;
     background-color: #5a10b5;
     font-size: 15px;
     font-weight: normal;
@@ -285,7 +284,8 @@ p {
     text-align: center;
     font-size: 1.5rem;
     margin-bottom: 5px;
-    transition: 0.7s ease
+    transition: 0.7s ease;
+    font-family: 'Poppins', 'Times New Roman', Times, serif ;
 }
 
 .who:hover {
